@@ -16,6 +16,9 @@
             "domify": "index.js"
         }
     },
+    "scripts": {
+        "test": "component test sauce"
+    },
     "main": "index",
     "repository": {
         "type": "git",
