@@ -12,7 +12,7 @@
     "author": "TJ Holowaychuk <tj@vision-media.ca>",
     "dependencies": {},
     "devDependencies": {
-        "component-test": "*"
+        "component-test2": "*"
     },
     "component": {
         "scripts": {
