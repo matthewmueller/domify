@@ -3,7 +3,8 @@ node_js:
   - '0.10'
 env:
   global:
-    secure: PT7QR0DCGcZ+JjH4kpsaGHPYyjdbKbm44Wj9nsHA/QgIG/FRBCvsAU1OyaWHF8KCP6p0TEfhgeW+vUlZfxlbpDa4eSR8kjqkcNTR1CWKqYfjjQzBFzibrmLE+gKOnIRxFhdwUjzatRc1A2B+jX/03HoIgsUhnG83xiinz21dBJI=
+    - secure: PT7QR0DCGcZ+JjH4kpsaGHPYyjdbKbm44Wj9nsHA/QgIG/FRBCvsAU1OyaWHF8KCP6p0TEfhgeW+vUlZfxlbpDa4eSR8kjqkcNTR1CWKqYfjjQzBFzibrmLE+gKOnIRxFhdwUjzatRc1A2B+jX/03HoIgsUhnG83xiinz21dBJI=
+    - DEBUG=component-test:*
   matrix:
     - BROWSER="iphone 6.1 Mac 10.8"
     - BROWSER="ipad 5.1 Mac 10.8"
