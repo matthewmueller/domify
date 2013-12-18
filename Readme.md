@@ -7,7 +7,6 @@
 domify('<p>Hello <em>there</em></p>')
 ```
 
-
 ## Running tests
 
 ```
