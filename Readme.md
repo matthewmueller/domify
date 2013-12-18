@@ -9,6 +9,7 @@ domify('<p>Hello <em>there</em></p>')
 
 ## Running tests
 
+
 ```
 $ make
 $ open test/index.html
