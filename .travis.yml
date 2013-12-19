@@ -17,7 +17,7 @@ env:
     - BROWSER="firefox 24 Windows 2012"
 
     # safari
-    - BROWSER="safari 7 Mac 10.9"
+    # - BROWSER="safari 7 Mac 10.9"
     # - BROWSER="safari 6.1 Mac 10.8"
     - BROWSER="safari 6 Mac 10.8"
 
